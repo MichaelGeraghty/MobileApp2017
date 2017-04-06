@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{9F9701DE-CC33-45E7-864B-09F4FA0F94E4}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dota2SB</RootNamespace>
+    <AssemblyName>Dota2SB</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.14393.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <PackageCertificateKeyFile>Dota2SB_StoreKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundle>Always</AppxBundle>
+    <AppxBundlePlatforms>x86|x64|arm</AppxBundlePlatforms>
+    <PackageCertificateThumbprint>74B2B26A0A20159AB2BBEC7B7CBD3693058191F2</PackageCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="Dota2SB_StoreKey.pfx" />
+    <None Include="project.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View1.xaml.cs">
+      <DependentUpon>View1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View2.xaml.cs">
+      <DependentUpon>View2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View3.xaml.cs">
+      <DependentUpon>View3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View4.xaml.cs">
+      <DependentUpon>View4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View5.xaml.cs">
+      <DependentUpon>View5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View6.xaml.cs">
+      <DependentUpon>View6.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="Dota2SB_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\2gd.jpg" />
+    <Content Include="Assets\admiralbulldog bottom lane.mp3" />
+    <Content Include="Assets\aegis and cheese.mp3" />
+    <Content Include="Assets\all so bad.mp3" />
+    <Content Include="Assets\alright you messed up.mp3" />
+    <Content Include="Assets\amigo.mp3" />
+    <Content Include="Assets\choosing not to farm.mp3" />
+    <Content Include="Assets\Defend the Base.mp3" />
+    <Content Include="Assets\double rapier double gem.mp3" />
+    <Content Include="Assets\drop your stick.mp3" />
+    <Content Include="Assets\El Grande Dongerino.mp3" />
+    <Content Include="Assets\f this guy dude.mp3" />
+    <Content Include="Assets\fck you bro.mp3" />
+    <Content Include="Assets\Fucking Idiot.mp3" />
+    <Content Include="Assets\furion can you tp top.mp3" />
+    <Content Include="Assets\game is a sht show.mp3" />
+    <Content Include="Assets\gebak.mp3" />
+    <Content Include="Assets\Get Out.mp3" />
+    <Content Include="Assets\bulldog.png" />
+    <Content Include="Assets\DotaSymbol.png" />
+    <Content Include="Assets\get roshan.mp3" />
+    <Content Include="Assets\good job guys.mp3" />
+    <Content Include="Assets\great game of dotes.mp3" />
+    <Content Include="Assets\he hasnt done sht.mp3" />
+    <Content Include="Assets\hello.mp3" />
+    <Content Include="Assets\huge mistake.mp3" />
+    <Content Include="Assets\i am going to report you.mp3" />
+    <Content Include="Assets\i am gonna screw you.mp3" />
+    <Content Include="Assets\i am not mad.mp3" />
+    <Content Include="Assets\i do not wanna play.mp3" />
+    <Content Include="Assets\i hate all of you guys.mp3" />
+    <Content Include="Assets\i have no idea.mp3" />
+    <Content Include="Assets\Im Panicking.mp3" />
+    <Content Include="Assets\Im Ratting Boys.mp3" />
+    <Content Include="Assets\infinitely better.mp3" />
+    <Content Include="Assets\instantly natures prophet.mp3" />
+    <Content Include="Assets\it is an illusion wot wot.mp3" />
+    <Content Include="Assets\it is like league.mp3" />
+    <Content Include="Assets\it is not worth watching.mp3" />
+    <Content Include="Assets\its a disaster short.mp3" />
+    <Content Include="Assets\Its a Trap.mp3" />
+    <Content Include="Assets\long its a disaster.mp3" />
+    <Content Include="Assets\make some noise.mp3" />
+    <Content Include="Assets\NO ONE HAS EVER DONE THAT.mp3" />
+    <Content Include="Assets\not playing dota.mp3" />
+    <Content Include="Assets\NotLikeThis.mp3" />
+    <Content Include="Assets\oh no mistake.mp3" />
+    <Content Include="Assets\Oh the Jukes.mp3" />
+    <Content Include="Assets\playing the ultimate rat.mp3" />
+    <Content Include="Assets\Please Sir Help me.mp3" />
+    <Content Include="Assets\problem with 1k mmr players.mp3" />
+    <Content Include="Assets\purge.jpg" />
+    <Content Include="Assets\right click.mp3" />
+    <Content Include="Assets\RTZ Get me out.mp3" />
+    <Content Include="Assets\RTZ Woo.mp3" />
+    <Content Include="Assets\RTZ.jpg" />
+    <Content Include="Assets\Run Alfredo.mp3" />
+    <Content Include="Assets\seemsgood.jpg" />
+    <Content Include="Assets\shave your arm pits.mp3" />
+    <Content Include="Assets\shit playstyle.mp3" />
+    <Content Include="Assets\so stupid.mp3" />
+    <Content Include="Assets\straight for the buildings.mp3" />
+    <Content Include="Assets\templar assassin bkb.mp3" />
+    <Content Include="Assets\thankspurge.png" />
+    <Content Include="Assets\that was a pretty big mistake.mp3" />
+    <Content Include="Assets\theres a hook.mp3" />
+    <Content Include="Assets\this game is not about you.mp3" />
+    <Content Include="Assets\this guy has serious problems.mp3" />
+    <Content Include="Assets\time spent worthless.mp3" />
+    <Content Include="Assets\tobi.jpg" />
+    <Content Include="Assets\Unlimited Power.mp3" />
+    <Content Include="Assets\Use your Spells.mp3" />
+    <Content Include="Assets\vlat.mp3" />
+    <Content Include="Assets\waow.mp3" />
+    <Content Include="Assets\we are back boys.mp3" />
+    <Content Include="Assets\we are in business boys.mp3" />
+    <Content Include="Assets\weak players.mp3" />
+    <Content Include="Assets\wtf.mp3" />
+    <Content Include="Assets\yellow this is purge 1.mp3" />
+    <Content Include="Assets\Yohoooo.mp3" />
+    <Content Include="Assets\you dont understand.mp3" />
+    <Content Include="Assets\You Underestimate my Power.mp3" />
+    <None Include="Package.StoreAssociation.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

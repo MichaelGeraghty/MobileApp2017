@@ -1,0 +1,574 @@
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\App.xbf
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\MainPage.xbf
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\View1.xbf
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\View2.xbf
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\View3.xbf
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\View4.xbf
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\View5.xbf
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\View6.xbf
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\Dota2SB.xr.xml
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\Dota2SB.exe
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\Dota2SB.pdb
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\resources.pri
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\AppxManifest.xml
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Adapters.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\AssemblyInfo.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\2gd.jpg
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\admiralbulldog bottom lane.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\aegis and cheese.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\all so bad.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\alright you messed up.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\amigo.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\bulldog.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\choosing not to farm.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Defend the Base.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\DotaSymbol.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\double rapier double gem.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\drop your stick.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\El Grande Dongerino.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\f this guy dude.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\fck you bro.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Fucking Idiot.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\furion can you tp top.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\game is a sht show.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\gebak.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Get Out.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\get roshan.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\good job guys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\great game of dotes.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\he hasnt done sht.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\hello.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\huge mistake.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\i am going to report you.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\i am gonna screw you.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\i am not mad.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\i do not wanna play.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\i hate all of you guys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\i have no idea.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Im Panicking.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Im Ratting Boys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\infinitely better.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\instantly natures prophet.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\it is an illusion wot wot.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\it is like league.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\it is not worth watching.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\its a disaster short.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Its a Trap.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\long its a disaster.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\make some noise.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\NO ONE HAS EVER DONE THAT.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\not playing dota.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\NotLikeThis.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\oh no mistake.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Oh the Jukes.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\playing the ultimate rat.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Please Sir Help me.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\problem with 1k mmr players.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\purge.jpg
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\right click.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\RTZ Get me out.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\RTZ Woo.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\RTZ.jpg
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Run Alfredo.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\seemsgood.jpg
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\shave your arm pits.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\shit playstyle.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\so stupid.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\StoreLogo.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\straight for the buildings.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\templar assassin bkb.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\thankspurge.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\that was a pretty big mistake.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\theres a hook.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\this game is not about you.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\this guy has serious problems.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\time spent worthless.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\tobi.jpg
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Unlimited Power.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Use your Spells.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\vlat.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\waow.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\we are back boys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\we are in business boys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\weak players.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\wtf.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\yellow this is purge 1.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\Yohoooo.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\you dont understand.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Assets\You Underestimate my Power.mp3
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\clrcompression.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Data.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Dota2SB.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Dota2SB.exe
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Dota2SB.ITFProxy.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Dota2SB.pdb
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Dota2SB.xr.xml
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\Helpers.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\ImplTypes.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\PInvoke.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\resources.pri
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\SafeTypes.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\ilc\SharedStubs.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\Dota2SB.build.appxrecipe
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\Upload\Dota2SB.build.appxrecipe
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\Microsoft.CSharp.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Core.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Numerics.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.Serialization.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ServiceModel.Web.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ServiceModel.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Windows.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Xml.Linq.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Xml.Serialization.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Xml.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\mscorlib.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\Microsoft.VisualBasic.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Collections.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Diagnostics.Tools.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Diagnostics.Tracing.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Globalization.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Globalization.Calendars.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.IO.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Reflection.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Reflection.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Reflection.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Resources.ResourceManager.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.Handles.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.InteropServices.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Text.Encoding.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Text.Encoding.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Threading.Tasks.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Threading.Timer.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\Microsoft.Win32.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Diagnostics.Debug.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.IO.FileSystem.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.Sockets.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\clrcompression.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Private.Uri.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.AppContext.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Buffers.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Collections.Concurrent.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Collections.Immutable.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Collections.NonGeneric.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Collections.Specialized.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ComponentModel.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ComponentModel.Annotations.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Data.Common.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Diagnostics.Contracts.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Diagnostics.DiagnosticSource.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Diagnostics.StackTrace.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Dynamic.Runtime.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Globalization.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.IO.Compression.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.IO.Compression.ZipFile.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.IO.IsolatedStorage.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Linq.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Linq.Expressions.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Linq.Parallel.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Linq.Queryable.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.Http.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.Http.Rtc.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.NameResolution.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.NetworkInformation.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.Requests.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.WebHeaderCollection.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.WebSockets.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Net.WebSockets.Client.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Numerics.Vectors.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ObjectModel.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Private.DataContractSerialization.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Private.ServiceModel.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Reflection.Context.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Reflection.DispatchProxy.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Reflection.Emit.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Reflection.Metadata.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Reflection.TypeExtensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.Numerics.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.Serialization.Json.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Security.Claims.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Security.Cryptography.Algorithms.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Security.Cryptography.Cng.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Security.Cryptography.Encoding.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Security.Cryptography.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Security.Cryptography.X509Certificates.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Security.Principal.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ServiceModel.Duplex.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ServiceModel.Http.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ServiceModel.NetTcp.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ServiceModel.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.ServiceModel.Security.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Text.Encoding.CodePages.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Text.RegularExpressions.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Threading.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Threading.Overlapped.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Xml.ReaderWriter.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Xml.XDocument.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Xml.XmlDocument.dll
+E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Release\System.Xml.XmlSerializer.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\App.g.i.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\App.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\MainPage.g.i.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\MainPage.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View1.g.i.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View1.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View2.g.i.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View2.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View3.g.i.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View3.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View4.g.i.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View4.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View5.g.i.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View5.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View6.g.i.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View6.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\XamlTypeInfo.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\App.xaml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\MainPage.xaml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View1.xaml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View2.xaml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View3.xaml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View4.xaml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View5.xaml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View6.xaml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\App.xbf
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\MainPage.xbf
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View1.xbf
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View2.xbf
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View3.xbf
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View4.xbf
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View5.xbf
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\View6.xbf
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\XamlSaveStateFile.xml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\Dota2SB.exe
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\Dota2SB.pdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ResourceHandlingTask.state
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\Dota2SB.csproj.GenerateResource.Cache
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\priconfig.xml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\priconfig.xml.intermediate
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\layout.resfiles
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\layout.resfiles.intermediate
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\resources.resfiles
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\resources.resfiles.intermediate
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\pri.resfiles
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\pri.resfiles.intermediate
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\qualifiers.txt
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\qualifiers.txt.intermediate
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ProjectArchitectures.txt
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Dota2SB.xr.xml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\AppxManifest.xml
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Dota2SB.pdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Dota2SB.exe
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Core.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Numerics.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ServiceModel.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Windows.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Xml.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\mscorlib.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Collections.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Globalization.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.IO.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Reflection.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Private.Uri.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.AppContext.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Buffers.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ComponentModel.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Data.Common.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Diagnostics.DiagnosticSource.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.IO.Compression.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Linq.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.Http.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.NameResolution.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.Requests.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.WebSockets.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Net.WebSockets.Client.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ObjectModel.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Security.Claims.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Security.Cryptography.Algorithms.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Security.Cryptography.Cng.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Security.Cryptography.Encoding.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Security.Cryptography.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Security.Cryptography.X509Certificates.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Security.Principal.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Threading.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Threading.Tasks.Extensions.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\resources.pri
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\clrcompression.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\2gd.jpg
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\purge.jpg
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\RTZ.jpg
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\seemsgood.jpg
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\tobi.jpg
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\admiralbulldog bottom lane.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\aegis and cheese.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\all so bad.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\alright you messed up.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\amigo.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\choosing not to farm.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Defend the Base.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\double rapier double gem.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\drop your stick.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\El Grande Dongerino.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\f this guy dude.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\fck you bro.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Fucking Idiot.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\furion can you tp top.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\game is a sht show.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\gebak.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Get Out.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\get roshan.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\good job guys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\great game of dotes.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\he hasnt done sht.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\hello.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\huge mistake.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\i am going to report you.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\i am gonna screw you.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\i am not mad.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\i do not wanna play.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\i hate all of you guys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\i have no idea.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Im Panicking.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Im Ratting Boys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\infinitely better.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\instantly natures prophet.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\it is an illusion wot wot.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\it is like league.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\it is not worth watching.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\its a disaster short.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Its a Trap.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\long its a disaster.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\make some noise.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\NO ONE HAS EVER DONE THAT.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\not playing dota.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\NotLikeThis.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\oh no mistake.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Oh the Jukes.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\playing the ultimate rat.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Please Sir Help me.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\problem with 1k mmr players.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\right click.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\RTZ Get me out.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\RTZ Woo.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Run Alfredo.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\shave your arm pits.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\shit playstyle.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\so stupid.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\straight for the buildings.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\templar assassin bkb.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\that was a pretty big mistake.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\theres a hook.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\this game is not about you.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\this guy has serious problems.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\time spent worthless.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Unlimited Power.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Use your Spells.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\vlat.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\waow.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\we are back boys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\we are in business boys.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\weak players.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\wtf.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\yellow this is purge 1.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Yohoooo.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\you dont understand.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\You Underestimate my Power.mp3
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\bulldog.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\DotaSymbol.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\thankspurge.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc.Dota2SB.rsp
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.ITFProxy.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop.pdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop\Adapters.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop\AssemblyInfo.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop\Data.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop\Helpers.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop\ImplTypes.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop\PInvoke.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop\SafeTypes.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Dota2SB.McgInterop\SharedStubs.g.cs
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\gkargs.rsp
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.closure.csv
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.csv
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.forwarders.csv
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.ilexe
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.ilexe.ILTransformTask.repro
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.ilpdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.McgInterop.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.McgInterop.ilpdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.metadata
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.reflectionlog.csv
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\Dota2SB.res
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Contracts.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Debug.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Calendars.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Reflection.DispatchProxy.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Numerics.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Algorithms.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Cng.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Encoding.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Primitives.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.X509Certificates.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.Extensions.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\MDIL\Dota2SB.mdilexe
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\MDIL\Dota2SB.mdilpdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\MDIL\Dota2SB.rsp
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Native.res
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\Native\Dota2SB.pdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Dota2SB.exe
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Dota2SB.pdb
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\rhbindargs.Dota2SB.rsp
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\sgargs.rsp
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\Dota2SB.csprojResolveAssemblyReference.cache

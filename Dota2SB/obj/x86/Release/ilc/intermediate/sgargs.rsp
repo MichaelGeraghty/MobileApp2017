@@ -1,0 +1,10 @@
+/out:"E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\\"
+/ref:"E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\\"
+/ref:"E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\\"
+/ref:"E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x86\ilc\lib\Private\\"
+/ref:"E:\VSprograms\Dota2SB\Dota2SB\obj\x86\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib

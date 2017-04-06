@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="15291MichaelGeraghty.Dota2Soundboard" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Dota2SB.xr.xml" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Dota2SB.xr.xml">
+				<Candidate type="Path">
+					<Value>Dota2SB.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="View1.xbf" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/View1.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="View2.xbf" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/View2.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="View3.xbf" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/View3.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="View4.xbf" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/View4.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="View5.xbf" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/View5.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="View6.xbf" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/View6.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="2gd.jpg" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/2gd.jpg">
+					<Candidate type="Path">
+						<Value>Assets\2gd.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="admiralbulldog bottom lane.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/admiralbulldog bottom lane.mp3">
+					<Candidate type="Path">
+						<Value>Assets\admiralbulldog bottom lane.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="aegis and cheese.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/aegis and cheese.mp3">
+					<Candidate type="Path">
+						<Value>Assets\aegis and cheese.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="all so bad.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/all so bad.mp3">
+					<Candidate type="Path">
+						<Value>Assets\all so bad.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="alright you messed up.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/alright you messed up.mp3">
+					<Candidate type="Path">
+						<Value>Assets\alright you messed up.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="amigo.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/amigo.mp3">
+					<Candidate type="Path">
+						<Value>Assets\amigo.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bulldog.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/bulldog.png">
+					<Candidate type="Path">
+						<Value>Assets\bulldog.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="choosing not to farm.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/choosing not to farm.mp3">
+					<Candidate type="Path">
+						<Value>Assets\choosing not to farm.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Defend the Base.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Defend the Base.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Defend the Base.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DotaSymbol.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/DotaSymbol.png">
+					<Candidate type="Path">
+						<Value>Assets\DotaSymbol.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="double rapier double gem.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/double rapier double gem.mp3">
+					<Candidate type="Path">
+						<Value>Assets\double rapier double gem.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="drop your stick.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/drop your stick.mp3">
+					<Candidate type="Path">
+						<Value>Assets\drop your stick.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="El Grande Dongerino.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/El Grande Dongerino.mp3">
+					<Candidate type="Path">
+						<Value>Assets\El Grande Dongerino.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="f this guy dude.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/f this guy dude.mp3">
+					<Candidate type="Path">
+						<Value>Assets\f this guy dude.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fck you bro.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/fck you bro.mp3">
+					<Candidate type="Path">
+						<Value>Assets\fck you bro.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Fucking Idiot.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Fucking Idiot.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Fucking Idiot.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="furion can you tp top.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/furion can you tp top.mp3">
+					<Candidate type="Path">
+						<Value>Assets\furion can you tp top.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="game is a sht show.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/game is a sht show.mp3">
+					<Candidate type="Path">
+						<Value>Assets\game is a sht show.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gebak.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/gebak.mp3">
+					<Candidate type="Path">
+						<Value>Assets\gebak.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Get Out.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Get Out.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Get Out.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="get roshan.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/get roshan.mp3">
+					<Candidate type="Path">
+						<Value>Assets\get roshan.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="good job guys.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/good job guys.mp3">
+					<Candidate type="Path">
+						<Value>Assets\good job guys.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="great game of dotes.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/great game of dotes.mp3">
+					<Candidate type="Path">
+						<Value>Assets\great game of dotes.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="he hasnt done sht.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/he hasnt done sht.mp3">
+					<Candidate type="Path">
+						<Value>Assets\he hasnt done sht.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hello.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/hello.mp3">
+					<Candidate type="Path">
+						<Value>Assets\hello.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="huge mistake.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/huge mistake.mp3">
+					<Candidate type="Path">
+						<Value>Assets\huge mistake.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="i am going to report you.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/i am going to report you.mp3">
+					<Candidate type="Path">
+						<Value>Assets\i am going to report you.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="i am gonna screw you.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/i am gonna screw you.mp3">
+					<Candidate type="Path">
+						<Value>Assets\i am gonna screw you.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="i am not mad.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/i am not mad.mp3">
+					<Candidate type="Path">
+						<Value>Assets\i am not mad.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="i do not wanna play.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/i do not wanna play.mp3">
+					<Candidate type="Path">
+						<Value>Assets\i do not wanna play.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="i hate all of you guys.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/i hate all of you guys.mp3">
+					<Candidate type="Path">
+						<Value>Assets\i hate all of you guys.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="i have no idea.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/i have no idea.mp3">
+					<Candidate type="Path">
+						<Value>Assets\i have no idea.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Im Panicking.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Im Panicking.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Im Panicking.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Im Ratting Boys.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Im Ratting Boys.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Im Ratting Boys.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="infinitely better.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/infinitely better.mp3">
+					<Candidate type="Path">
+						<Value>Assets\infinitely better.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="instantly natures prophet.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/instantly natures prophet.mp3">
+					<Candidate type="Path">
+						<Value>Assets\instantly natures prophet.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="it is an illusion wot wot.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/it is an illusion wot wot.mp3">
+					<Candidate type="Path">
+						<Value>Assets\it is an illusion wot wot.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="it is like league.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/it is like league.mp3">
+					<Candidate type="Path">
+						<Value>Assets\it is like league.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="it is not worth watching.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/it is not worth watching.mp3">
+					<Candidate type="Path">
+						<Value>Assets\it is not worth watching.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="its a disaster short.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/its a disaster short.mp3">
+					<Candidate type="Path">
+						<Value>Assets\its a disaster short.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Its a Trap.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Its a Trap.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Its a Trap.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="long its a disaster.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/long its a disaster.mp3">
+					<Candidate type="Path">
+						<Value>Assets\long its a disaster.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="make some noise.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/make some noise.mp3">
+					<Candidate type="Path">
+						<Value>Assets\make some noise.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NO ONE HAS EVER DONE THAT.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/NO ONE HAS EVER DONE THAT.mp3">
+					<Candidate type="Path">
+						<Value>Assets\NO ONE HAS EVER DONE THAT.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="not playing dota.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/not playing dota.mp3">
+					<Candidate type="Path">
+						<Value>Assets\not playing dota.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NotLikeThis.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/NotLikeThis.mp3">
+					<Candidate type="Path">
+						<Value>Assets\NotLikeThis.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="oh no mistake.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/oh no mistake.mp3">
+					<Candidate type="Path">
+						<Value>Assets\oh no mistake.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Oh the Jukes.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Oh the Jukes.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Oh the Jukes.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="playing the ultimate rat.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/playing the ultimate rat.mp3">
+					<Candidate type="Path">
+						<Value>Assets\playing the ultimate rat.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Please Sir Help me.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Please Sir Help me.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Please Sir Help me.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="problem with 1k mmr players.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/problem with 1k mmr players.mp3">
+					<Candidate type="Path">
+						<Value>Assets\problem with 1k mmr players.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="purge.jpg" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/purge.jpg">
+					<Candidate type="Path">
+						<Value>Assets\purge.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="right click.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/right click.mp3">
+					<Candidate type="Path">
+						<Value>Assets\right click.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RTZ Get me out.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/RTZ Get me out.mp3">
+					<Candidate type="Path">
+						<Value>Assets\RTZ Get me out.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RTZ Woo.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/RTZ Woo.mp3">
+					<Candidate type="Path">
+						<Value>Assets\RTZ Woo.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RTZ.jpg" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/RTZ.jpg">
+					<Candidate type="Path">
+						<Value>Assets\RTZ.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Run Alfredo.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Run Alfredo.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Run Alfredo.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="seemsgood.jpg" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/seemsgood.jpg">
+					<Candidate type="Path">
+						<Value>Assets\seemsgood.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shave your arm pits.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/shave your arm pits.mp3">
+					<Candidate type="Path">
+						<Value>Assets\shave your arm pits.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shit playstyle.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/shit playstyle.mp3">
+					<Candidate type="Path">
+						<Value>Assets\shit playstyle.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="so stupid.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/so stupid.mp3">
+					<Candidate type="Path">
+						<Value>Assets\so stupid.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="straight for the buildings.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/straight for the buildings.mp3">
+					<Candidate type="Path">
+						<Value>Assets\straight for the buildings.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="templar assassin bkb.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/templar assassin bkb.mp3">
+					<Candidate type="Path">
+						<Value>Assets\templar assassin bkb.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="thankspurge.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/thankspurge.png">
+					<Candidate type="Path">
+						<Value>Assets\thankspurge.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="that was a pretty big mistake.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/that was a pretty big mistake.mp3">
+					<Candidate type="Path">
+						<Value>Assets\that was a pretty big mistake.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="theres a hook.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/theres a hook.mp3">
+					<Candidate type="Path">
+						<Value>Assets\theres a hook.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="this game is not about you.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/this game is not about you.mp3">
+					<Candidate type="Path">
+						<Value>Assets\this game is not about you.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="this guy has serious problems.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/this guy has serious problems.mp3">
+					<Candidate type="Path">
+						<Value>Assets\this guy has serious problems.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="time spent worthless.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/time spent worthless.mp3">
+					<Candidate type="Path">
+						<Value>Assets\time spent worthless.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tobi.jpg" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/tobi.jpg">
+					<Candidate type="Path">
+						<Value>Assets\tobi.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Unlimited Power.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Unlimited Power.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Unlimited Power.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Use your Spells.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Use your Spells.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Use your Spells.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="vlat.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/vlat.mp3">
+					<Candidate type="Path">
+						<Value>Assets\vlat.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="waow.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/waow.mp3">
+					<Candidate type="Path">
+						<Value>Assets\waow.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="we are back boys.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/we are back boys.mp3">
+					<Candidate type="Path">
+						<Value>Assets\we are back boys.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="we are in business boys.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/we are in business boys.mp3">
+					<Candidate type="Path">
+						<Value>Assets\we are in business boys.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="weak players.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/weak players.mp3">
+					<Candidate type="Path">
+						<Value>Assets\weak players.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wtf.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/wtf.mp3">
+					<Candidate type="Path">
+						<Value>Assets\wtf.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yellow this is purge 1.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/yellow this is purge 1.mp3">
+					<Candidate type="Path">
+						<Value>Assets\yellow this is purge 1.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Yohoooo.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/Yohoooo.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Yohoooo.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="you dont understand.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/you dont understand.mp3">
+					<Candidate type="Path">
+						<Value>Assets\you dont understand.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="You Underestimate my Power.mp3" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Assets/You Underestimate my Power.mp3">
+					<Candidate type="Path">
+						<Value>Assets\You Underestimate my Power.mp3</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://15291MichaelGeraghty.Dota2Soundboard/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

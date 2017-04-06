@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-KG5R8IM</Machine>
+    <WindowsUser>gerag</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>c43416f5-c5bf-43f9-9b3a-de7463283d58</PackageIdentityName>
+    <PackageIdentityPublisher>CN=E023754E-965E-498E-A54B-9833F94C4B49</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\VSprograms\Dota2SB\Dota2SB\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\2gd.jpg">
+      <PackagePath>Assets\2gd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\admiralbulldog bottom lane.mp3">
+      <PackagePath>Assets\admiralbulldog bottom lane.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\aegis and cheese.mp3">
+      <PackagePath>Assets\aegis and cheese.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\all so bad.mp3">
+      <PackagePath>Assets\all so bad.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\alright you messed up.mp3">
+      <PackagePath>Assets\alright you messed up.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\amigo.mp3">
+      <PackagePath>Assets\amigo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\bulldog.png">
+      <PackagePath>Assets\bulldog.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\choosing not to farm.mp3">
+      <PackagePath>Assets\choosing not to farm.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Defend the Base.mp3">
+      <PackagePath>Assets\Defend the Base.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\DotaSymbol.png">
+      <PackagePath>Assets\DotaSymbol.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\double rapier double gem.mp3">
+      <PackagePath>Assets\double rapier double gem.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\drop your stick.mp3">
+      <PackagePath>Assets\drop your stick.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\El Grande Dongerino.mp3">
+      <PackagePath>Assets\El Grande Dongerino.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\f this guy dude.mp3">
+      <PackagePath>Assets\f this guy dude.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\fck you bro.mp3">
+      <PackagePath>Assets\fck you bro.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Fucking Idiot.mp3">
+      <PackagePath>Assets\Fucking Idiot.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\furion can you tp top.mp3">
+      <PackagePath>Assets\furion can you tp top.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\game is a sht show.mp3">
+      <PackagePath>Assets\game is a sht show.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\gebak.mp3">
+      <PackagePath>Assets\gebak.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Get Out.mp3">
+      <PackagePath>Assets\Get Out.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\get roshan.mp3">
+      <PackagePath>Assets\get roshan.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\good job guys.mp3">
+      <PackagePath>Assets\good job guys.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\great game of dotes.mp3">
+      <PackagePath>Assets\great game of dotes.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\he hasnt done sht.mp3">
+      <PackagePath>Assets\he hasnt done sht.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\hello.mp3">
+      <PackagePath>Assets\hello.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\huge mistake.mp3">
+      <PackagePath>Assets\huge mistake.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\i am going to report you.mp3">
+      <PackagePath>Assets\i am going to report you.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\i am gonna screw you.mp3">
+      <PackagePath>Assets\i am gonna screw you.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\i am not mad.mp3">
+      <PackagePath>Assets\i am not mad.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\i do not wanna play.mp3">
+      <PackagePath>Assets\i do not wanna play.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\i hate all of you guys.mp3">
+      <PackagePath>Assets\i hate all of you guys.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\i have no idea.mp3">
+      <PackagePath>Assets\i have no idea.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Im Panicking.mp3">
+      <PackagePath>Assets\Im Panicking.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Im Ratting Boys.mp3">
+      <PackagePath>Assets\Im Ratting Boys.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\infinitely better.mp3">
+      <PackagePath>Assets\infinitely better.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\instantly natures prophet.mp3">
+      <PackagePath>Assets\instantly natures prophet.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\it is an illusion wot wot.mp3">
+      <PackagePath>Assets\it is an illusion wot wot.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\it is like league.mp3">
+      <PackagePath>Assets\it is like league.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\it is not worth watching.mp3">
+      <PackagePath>Assets\it is not worth watching.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\its a disaster short.mp3">
+      <PackagePath>Assets\its a disaster short.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Its a Trap.mp3">
+      <PackagePath>Assets\Its a Trap.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\long its a disaster.mp3">
+      <PackagePath>Assets\long its a disaster.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\make some noise.mp3">
+      <PackagePath>Assets\make some noise.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\NO ONE HAS EVER DONE THAT.mp3">
+      <PackagePath>Assets\NO ONE HAS EVER DONE THAT.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\not playing dota.mp3">
+      <PackagePath>Assets\not playing dota.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\NotLikeThis.mp3">
+      <PackagePath>Assets\NotLikeThis.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\oh no mistake.mp3">
+      <PackagePath>Assets\oh no mistake.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Oh the Jukes.mp3">
+      <PackagePath>Assets\Oh the Jukes.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\playing the ultimate rat.mp3">
+      <PackagePath>Assets\playing the ultimate rat.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Please Sir Help me.mp3">
+      <PackagePath>Assets\Please Sir Help me.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\problem with 1k mmr players.mp3">
+      <PackagePath>Assets\problem with 1k mmr players.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\purge.jpg">
+      <PackagePath>Assets\purge.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\right click.mp3">
+      <PackagePath>Assets\right click.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\RTZ Get me out.mp3">
+      <PackagePath>Assets\RTZ Get me out.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\RTZ Woo.mp3">
+      <PackagePath>Assets\RTZ Woo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\RTZ.jpg">
+      <PackagePath>Assets\RTZ.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Run Alfredo.mp3">
+      <PackagePath>Assets\Run Alfredo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\seemsgood.jpg">
+      <PackagePath>Assets\seemsgood.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\shave your arm pits.mp3">
+      <PackagePath>Assets\shave your arm pits.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\shit playstyle.mp3">
+      <PackagePath>Assets\shit playstyle.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\so stupid.mp3">
+      <PackagePath>Assets\so stupid.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\straight for the buildings.mp3">
+      <PackagePath>Assets\straight for the buildings.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\templar assassin bkb.mp3">
+      <PackagePath>Assets\templar assassin bkb.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\thankspurge.png">
+      <PackagePath>Assets\thankspurge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\that was a pretty big mistake.mp3">
+      <PackagePath>Assets\that was a pretty big mistake.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\theres a hook.mp3">
+      <PackagePath>Assets\theres a hook.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\this game is not about you.mp3">
+      <PackagePath>Assets\this game is not about you.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\this guy has serious problems.mp3">
+      <PackagePath>Assets\this guy has serious problems.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\time spent worthless.mp3">
+      <PackagePath>Assets\time spent worthless.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\tobi.jpg">
+      <PackagePath>Assets\tobi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Unlimited Power.mp3">
+      <PackagePath>Assets\Unlimited Power.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Use your Spells.mp3">
+      <PackagePath>Assets\Use your Spells.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\vlat.mp3">
+      <PackagePath>Assets\vlat.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\waow.mp3">
+      <PackagePath>Assets\waow.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\we are back boys.mp3">
+      <PackagePath>Assets\we are back boys.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\we are in business boys.mp3">
+      <PackagePath>Assets\we are in business boys.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\weak players.mp3">
+      <PackagePath>Assets\weak players.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\wtf.mp3">
+      <PackagePath>Assets\wtf.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\yellow this is purge 1.mp3">
+      <PackagePath>Assets\yellow this is purge 1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\Yohoooo.mp3">
+      <PackagePath>Assets\Yohoooo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\you dont understand.mp3">
+      <PackagePath>Assets\you dont understand.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Assets\You Underestimate my Power.mp3">
+      <PackagePath>Assets\You Underestimate my Power.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Dota2SB.dll">
+      <PackagePath>Dota2SB.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Dota2SB.exe">
+      <PackagePath>Dota2SB.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\Dota2SB.pdb">
+      <PackagePath>Dota2SB.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
