@@ -24,9 +24,10 @@ namespace Dota2SB
     {
         public MainPage()
         {
+            //initialize
             this.InitializeComponent();
         }
-
+        //Navigates to selected page once button is tapped
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(View1));

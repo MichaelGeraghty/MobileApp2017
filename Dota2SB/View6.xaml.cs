@@ -27,17 +27,21 @@ namespace Dota2SB
     /// </summary>
     public sealed partial class View6 : Page
     {
+        //file used to store the message
         const string TEXT_FILE_NAME = "SampleTextFile.txt";
 
         public View6()
         {
+            //initialize
             this.InitializeComponent();
         }
-
+        //Tap events set to play the sound once pressed , will not stop previous sound from ending unless back button is pressed
         private async void readFile_Click(object sender, RoutedEventArgs e)
         {
+            //Try and catch used here to chck if there is a previously saved message and not to crash if there is none but to use the provided template
             try
             {
+                //read if exists
                 string str = await FileHelper.ReadTextFile(TEXT_FILE_NAME);
                 textBlock.Text = str;
             }
@@ -48,10 +52,10 @@ namespace Dota2SB
 
         }
 
+        //write to file
         private async void writeFile_Click(object sender, RoutedEventArgs e)
         {
             string textFilePath = await FileHelper.WriteTextFile(TEXT_FILE_NAME, textBox.Text);
-            //seemsgood.Visibility = Visibility.Collapsed;
 
         }
     }

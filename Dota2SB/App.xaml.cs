@@ -116,7 +116,7 @@ namespace Dota2SB
             deferral.Complete();
         }
 
-
+        //Back Button
         private void OnBackRequested(object sender, BackRequestedEventArgs e)
         {
             Frame rootFrame = Window.Current.Content as Frame;

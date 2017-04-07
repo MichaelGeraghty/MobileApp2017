@@ -28,13 +28,13 @@
     <AppXManifest Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-07T14:12:48.176</Modified>
+      <Modified>2017-04-07T22:58:10.454</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Debug\Dota2SB.exe">
       <PackagePath>entrypoint\Dota2SB.exe</PackagePath>
-      <Modified>2017-04-07T14:12:47.497</Modified>
+      <Modified>2017-04-07T22:58:09.567</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gerag\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -801,11 +801,11 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-07T14:12:47.956</Modified>
+      <Modified>2017-04-07T22:58:10.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Debug\Core\Dota2SB.exe">
       <PackagePath>Dota2SB.exe</PackagePath>
-      <Modified>2017-04-07T14:12:48.168</Modified>
+      <Modified>2017-04-07T22:58:10.444</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

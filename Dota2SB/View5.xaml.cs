@@ -24,9 +24,10 @@ namespace Dota2SB
     {
         public View5()
         {
+            //initialize
             this.InitializeComponent();
         }
-
+        //Tap events set to play the sound once pressed , will not stop previous sound from ending unless back button is pressed
         private async void btn1_Tapped_1(object sender, TappedRoutedEventArgs e)
         {
 

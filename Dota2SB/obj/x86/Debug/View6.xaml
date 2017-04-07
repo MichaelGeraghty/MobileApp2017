@@ -6,11 +6,12 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
-
+    <!--Grid features used so app fits well on everyscreen size and orientation-->
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="/Assets/thankspurge.png" Stretch="UniformToFill"  AlignmentX="Center" AlignmentY="Center"/>
         </Grid.Background>
+        <!-- *for auto adjustment will fill all available size on screen and allignement in this section-->
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
@@ -27,7 +28,6 @@
         <Button x:ConnectionId='3'  x:Name = "writeFile" Content = "Change Message"                            Grid.Row="0" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground = "White"/>
 
         <TextBlock x:ConnectionId='4' x:Name = "textBlock" Grid.Row="1" Grid.Column="1"   TextWrapping = "Wrap" Foreground = "Green" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top"/>
-       <!-- <Image x:Name="seemsgood"  Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Source="Assets/seemsgood.jpg"/> -->
 
     </Grid>
 </Page>
