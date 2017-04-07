@@ -134,7 +134,6 @@
     <Content Include="Assets\2gd.jpg" />
     <Content Include="Assets\admiralbulldog bottom lane.mp3" />
     <Content Include="Assets\aegis and cheese.mp3" />
-    <Content Include="Assets\all so bad.mp3" />
     <Content Include="Assets\alright you messed up.mp3" />
     <Content Include="Assets\amigo.mp3" />
     <Content Include="Assets\choosing not to farm.mp3" />
@@ -142,11 +141,7 @@
     <Content Include="Assets\double rapier double gem.mp3" />
     <Content Include="Assets\drop your stick.mp3" />
     <Content Include="Assets\El Grande Dongerino.mp3" />
-    <Content Include="Assets\f this guy dude.mp3" />
-    <Content Include="Assets\fck you bro.mp3" />
-    <Content Include="Assets\Fucking Idiot.mp3" />
     <Content Include="Assets\furion can you tp top.mp3" />
-    <Content Include="Assets\game is a sht show.mp3" />
     <Content Include="Assets\gebak.mp3" />
     <Content Include="Assets\Get Out.mp3" />
     <Content Include="Assets\bulldog.png" />
@@ -154,11 +149,8 @@
     <Content Include="Assets\get roshan.mp3" />
     <Content Include="Assets\good job guys.mp3" />
     <Content Include="Assets\great game of dotes.mp3" />
-    <Content Include="Assets\he hasnt done sht.mp3" />
     <Content Include="Assets\hello.mp3" />
     <Content Include="Assets\huge mistake.mp3" />
-    <Content Include="Assets\i am going to report you.mp3" />
-    <Content Include="Assets\i am gonna screw you.mp3" />
     <Content Include="Assets\i am not mad.mp3" />
     <Content Include="Assets\i do not wanna play.mp3" />
     <Content Include="Assets\i hate all of you guys.mp3" />
@@ -183,15 +175,10 @@
     <Content Include="Assets\Please Sir Help me.mp3" />
     <Content Include="Assets\problem with 1k mmr players.mp3" />
     <Content Include="Assets\purge.jpg" />
-    <Content Include="Assets\right click.mp3" />
-    <Content Include="Assets\RTZ Get me out.mp3" />
     <Content Include="Assets\RTZ Woo.mp3" />
     <Content Include="Assets\RTZ.jpg" />
     <Content Include="Assets\Run Alfredo.mp3" />
-    <Content Include="Assets\seemsgood.jpg" />
     <Content Include="Assets\shave your arm pits.mp3" />
-    <Content Include="Assets\shit playstyle.mp3" />
-    <Content Include="Assets\so stupid.mp3" />
     <Content Include="Assets\straight for the buildings.mp3" />
     <Content Include="Assets\templar assassin bkb.mp3" />
     <Content Include="Assets\thankspurge.png" />
@@ -201,18 +188,14 @@
     <Content Include="Assets\this guy has serious problems.mp3" />
     <Content Include="Assets\time spent worthless.mp3" />
     <Content Include="Assets\tobi.jpg" />
-    <Content Include="Assets\Unlimited Power.mp3" />
     <Content Include="Assets\Use your Spells.mp3" />
     <Content Include="Assets\vlat.mp3" />
     <Content Include="Assets\waow.mp3" />
-    <Content Include="Assets\we are back boys.mp3" />
     <Content Include="Assets\we are in business boys.mp3" />
     <Content Include="Assets\weak players.mp3" />
-    <Content Include="Assets\wtf.mp3" />
     <Content Include="Assets\yellow this is purge 1.mp3" />
     <Content Include="Assets\Yohoooo.mp3" />
     <Content Include="Assets\you dont understand.mp3" />
-    <Content Include="Assets\You Underestimate my Power.mp3" />
     <None Include="Package.StoreAssociation.xml">
       <SubType>Designer</SubType>
     </None>

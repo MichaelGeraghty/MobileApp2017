@@ -20,27 +20,21 @@
             <RowDefinition Height="50*" />
             <RowDefinition Height="50*" />
             <RowDefinition Height="50*" />
-            <RowDefinition Height="50*" />
-            <RowDefinition Height="50*" />
         </Grid.RowDefinitions>
 
-        <Button x:ConnectionId='1' x:Name="btn1" Grid.Row="0" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >F*** You Bro</Button>
-        <Button x:ConnectionId='2' x:Name="btn2" Grid.Row="1" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Game is a S*** show</Button>
-        <Button x:ConnectionId='3' x:Name="btn3" Grid.Row="2" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Good Job Guys</Button>
-        <Button x:ConnectionId='4' x:Name="btn4" Grid.Row="3" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Great Game of Dotes</Button>
-        <Button x:ConnectionId='5' x:Name="btn5" Grid.Row="4" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Hello</Button>
+     
+        
+        <Button x:ConnectionId='1' x:Name="btn3" Grid.Row="0" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Good Job Guys</Button>
+        <Button x:ConnectionId='2' x:Name="btn4" Grid.Row="1" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Great Game of Dotes</Button>
+        <Button x:ConnectionId='3' x:Name="btn5" Grid.Row="2" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Hello</Button>
 
-        <Button x:ConnectionId='6' x:Name="btn6" Grid.Row="0" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >I Am Not Mad</Button>
-        <Button x:ConnectionId='7' x:Name="btn7" Grid.Row="1" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >I Do Not Want To Play</Button>
-        <Button x:ConnectionId='8' x:Name="btn8" Grid.Row="2" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >I Hate You Guys</Button>
-        <Button x:ConnectionId='9' x:Name="btn9" Grid.Row="3" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Get Me Out</Button>
-        <Button x:ConnectionId='10' x:Name="btn11" Grid.Row="4" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Wooo</Button>
+        <Button x:ConnectionId='4' x:Name="btn6" Grid.Row="0" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >I Am Not Mad</Button>
+        <Button x:ConnectionId='5' x:Name="btn7" Grid.Row="1" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >I Do Not Want To Play</Button>
+        <Button x:ConnectionId='6' x:Name="btn8" Grid.Row="2" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >I Hate You Guys</Button>
 
-        <Button x:ConnectionId='11' x:Name="btn12" Grid.Row="0" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Shave Your Arm Pits</Button>
-        <Button x:ConnectionId='12' x:Name="btn13" Grid.Row="1" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >So Stupid</Button>
-        <Button x:ConnectionId='13' x:Name="btn14" Grid.Row="2" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >We Are Back Boys</Button>
-        <Button x:ConnectionId='14' x:Name="btn15" Grid.Row="3" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >We Are In Business</Button>
-        <Button x:ConnectionId='15' x:Name="btn16" Grid.Row="4" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >WTF</Button>
+        <Button x:ConnectionId='7' x:Name="btn11" Grid.Row="0" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Wooo</Button>
+        <Button x:ConnectionId='8' x:Name="btn12" Grid.Row="1" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Shave Your Arm Pits</Button>
+        <Button x:ConnectionId='9' x:Name="btn15" Grid.Row="2" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >We Are In Business</Button>
 
     </Grid>
 </Page>

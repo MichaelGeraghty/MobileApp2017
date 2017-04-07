@@ -20,23 +20,19 @@
             <RowDefinition Height="50*" />
             <RowDefinition Height="50*" />
             <RowDefinition Height="50*" />
-            <RowDefinition Height="50*" />
         </Grid.RowDefinitions>
 
         <Button x:Name="btn1" Grid.Row="0" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn1_Tapped_1">EE Aegis and Cheese</Button>
-        <Button x:Name="btn2" Grid.Row="1" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn2_Tapped_2">BSJ All So Bad</Button>
         <Button x:Name="btn3" Grid.Row="2" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn3_Tapped_3">Pajkatt Amigo</Button>
-        <Button x:Name="btn4" Grid.Row="3" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn4_Tapped_4">EE Drop Your Stick</Button>
+        <Button x:Name="btn4" Grid.Row="1" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn4_Tapped_4">EE Drop Your Stick</Button>
 
-        <Button x:Name="btn5" Grid.Row="0" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn5_Tapped_5">BSJ F*** This Guy Dude</Button>
         <Button x:Name="btn6" Grid.Row="1" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn6_Tapped_6">EE Furion Can You TP Top</Button>
         <Button x:Name="btn7" Grid.Row="2" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn7_Tapped_7">EE Gebak</Button>
-        <Button x:Name="btn8" Grid.Row="3" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn8_Tapped_8">EE Get Rosh</Button>
+        <Button x:Name="btn8" Grid.Row="0" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn8_Tapped_8">EE Get Rosh</Button>
 
-        <Button x:Name="btn9" Grid.Row="0" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn9_Tapped_9">BSJ I Am Going To Report you</Button>
         <Button x:Name="btn10" Grid.Row="1" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn10_Tapped_10">Pajkatt TA BKB</Button>
         <Button x:Name="btn11" Grid.Row="2" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn11_Tapped_11">BSJ This Guy Has Problems</Button>
-        <Button x:Name="btn12" Grid.Row="3" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn12_Tapped_12">Pajkatt Vlat</Button>
+        <Button x:Name="btn12" Grid.Row="0" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn12_Tapped_12">Pajkatt Vlat</Button>
 
     </Grid>
 </Page>

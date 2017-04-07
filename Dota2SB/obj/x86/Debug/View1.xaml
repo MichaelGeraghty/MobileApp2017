@@ -21,26 +21,23 @@
             <RowDefinition Height="50*" />
             <RowDefinition Height="50*" />
             <RowDefinition Height="50*" />
-            <RowDefinition Height="50*" />
         </Grid.RowDefinitions>
 
         <Button x:ConnectionId='1' x:Name="btn1" Grid.Row="0" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Get Out</Button>
         <Button x:ConnectionId='2' x:Name="btn2" Grid.Row="1" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Defend the Base</Button>
         <Button x:ConnectionId='3' x:Name="btn3" Grid.Row="2" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >El Grande Dongerino</Button>
-        <Button x:ConnectionId='4' x:Name="btn4" Grid.Row="3" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >F***ing Idiot</Button>
-        <Button x:ConnectionId='5' x:Name="btn5" Grid.Row="4" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Im panicking</Button>
+        <Button x:ConnectionId='4' x:Name="btn4" Grid.Row="3" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Im panicking</Button>
 
-        <Button x:ConnectionId='6' x:Name="btn6" Grid.Row="0" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >I'm Ratting</Button>
-        <Button x:ConnectionId='7' x:Name="btn7" Grid.Row="1" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >It's a Trap</Button>
-        <Button x:ConnectionId='8' x:Name="btn8" Grid.Row="2" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Not Like This</Button>
-        <Button x:ConnectionId='9' x:Name="btn9" Grid.Row="3" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Oh the Jukes</Button>
-        <Button x:ConnectionId='10' x:Name="btn11" Grid.Row="4" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Please Help Me Sir</Button>
+        <Button x:ConnectionId='5' x:Name="btn6" Grid.Row="0" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >I'm Ratting</Button>
+        <Button x:ConnectionId='6' x:Name="btn7" Grid.Row="1" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >It's a Trap</Button>
+        <Button x:ConnectionId='7' x:Name="btn8" Grid.Row="2" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Not Like This</Button>
+        <Button x:ConnectionId='8' x:Name="btn9" Grid.Row="3" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                       >Oh the Jukes</Button>
 
-        <Button x:ConnectionId='11' x:Name="btn12" Grid.Row="0" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Run Alfredo</Button>
-        <Button x:ConnectionId='12' x:Name="btn13" Grid.Row="1" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Unlimited Power</Button>
-        <Button x:ConnectionId='13' x:Name="btn14" Grid.Row="2" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Use your Spells</Button>
-        <Button x:ConnectionId='14' x:Name="btn15" Grid.Row="3" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Yohoo</Button>
-        <Button x:ConnectionId='15' x:Name="btn16" Grid.Row="4" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >You Underestimate me</Button>
+        <Button x:ConnectionId='9' x:Name="btn12" Grid.Row="0" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Run Alfredo</Button>
+        <Button x:ConnectionId='10' x:Name="btn13" Grid.Row="1" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Please Help Me Sir</Button>
+        <Button x:ConnectionId='11' x:Name="btn14" Grid.Row="2" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Use your Spells</Button>
+        <Button x:ConnectionId='12' x:Name="btn15" Grid.Row="3" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White"                         >Yohoo</Button>
+
 
     </Grid>
 </Page>

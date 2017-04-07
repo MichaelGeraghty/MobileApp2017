@@ -16,7 +16,6 @@ E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\AssemblyInfo.g.cs
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\2gd.jpg
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\admiralbulldog bottom lane.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\aegis and cheese.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\all so bad.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\alright you messed up.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\amigo.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\bulldog.png
@@ -26,21 +25,14 @@ E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\DotaSymbol.png
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\double rapier double gem.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\drop your stick.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\El Grande Dongerino.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\f this guy dude.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\fck you bro.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Fucking Idiot.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\furion can you tp top.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\game is a sht show.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\gebak.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Get Out.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\get roshan.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\good job guys.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\great game of dotes.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\he hasnt done sht.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\hello.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\huge mistake.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\i am going to report you.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\i am gonna screw you.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\i am not mad.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\i do not wanna play.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\i hate all of you guys.mp3
@@ -66,15 +58,10 @@ E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\playing the ultimate ra
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Please Sir Help me.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\problem with 1k mmr players.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\purge.jpg
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\right click.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\RTZ Get me out.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\RTZ Woo.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\RTZ.jpg
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Run Alfredo.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\seemsgood.jpg
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\shave your arm pits.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\shit playstyle.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\so stupid.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png
@@ -89,19 +76,15 @@ E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\this game is not about 
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\this guy has serious problems.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\time spent worthless.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\tobi.jpg
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Unlimited Power.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Use your Spells.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\vlat.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\waow.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\we are back boys.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\we are in business boys.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\weak players.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\wtf.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\yellow this is purge 1.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\Yohoooo.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\you dont understand.mp3
-E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Assets\You Underestimate my Power.mp3
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\clrcompression.dll
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Data.g.cs
 E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\ilc\Dota2SB.dll
@@ -401,11 +384,9 @@ E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\clrcompression.dll
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\2gd.jpg
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\purge.jpg
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\RTZ.jpg
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\seemsgood.jpg
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\tobi.jpg
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\admiralbulldog bottom lane.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\aegis and cheese.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\all so bad.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\alright you messed up.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\amigo.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\choosing not to farm.mp3
@@ -413,21 +394,14 @@ E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Defend the Base.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\double rapier double gem.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\drop your stick.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\El Grande Dongerino.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\f this guy dude.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\fck you bro.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Fucking Idiot.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\furion can you tp top.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\game is a sht show.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\gebak.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Get Out.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\get roshan.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\good job guys.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\great game of dotes.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\he hasnt done sht.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\hello.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\huge mistake.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\i am going to report you.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\i am gonna screw you.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\i am not mad.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\i do not wanna play.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\i hate all of you guys.mp3
@@ -451,13 +425,9 @@ E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Oh the Jukes.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\playing the ultimate rat.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Please Sir Help me.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\problem with 1k mmr players.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\right click.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\RTZ Get me out.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\RTZ Woo.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Run Alfredo.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\shave your arm pits.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\shit playstyle.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\so stupid.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\straight for the buildings.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\templar assassin bkb.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\that was a pretty big mistake.mp3
@@ -465,18 +435,14 @@ E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\theres a hook.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\this game is not about you.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\this guy has serious problems.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\time spent worthless.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Unlimited Power.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Use your Spells.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\vlat.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\waow.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\we are back boys.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\we are in business boys.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\weak players.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\wtf.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\yellow this is purge 1.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\Yohoooo.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\you dont understand.mp3
-E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\You Underestimate my Power.mp3
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\bulldog.png
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\DotaSymbol.png
 E:\VSprograms\Dota2SB\Dota2SB\obj\ARM\Release\ilc\in\Assets\thankspurge.png

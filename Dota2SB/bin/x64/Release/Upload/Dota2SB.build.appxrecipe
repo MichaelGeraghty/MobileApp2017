@@ -370,9 +370,6 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\RTZ.jpg">
       <PackagePath>Assets\RTZ.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\seemsgood.jpg">
-      <PackagePath>Assets\seemsgood.jpg</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\tobi.jpg">
       <PackagePath>Assets\tobi.jpg</PackagePath>
     </AppxPackagedFile>
@@ -381,9 +378,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\aegis and cheese.mp3">
       <PackagePath>Assets\aegis and cheese.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\all so bad.mp3">
-      <PackagePath>Assets\all so bad.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\alright you messed up.mp3">
       <PackagePath>Assets\alright you messed up.mp3</PackagePath>
@@ -406,20 +400,8 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\El Grande Dongerino.mp3">
       <PackagePath>Assets\El Grande Dongerino.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\f this guy dude.mp3">
-      <PackagePath>Assets\f this guy dude.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\fck you bro.mp3">
-      <PackagePath>Assets\fck you bro.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\Fucking Idiot.mp3">
-      <PackagePath>Assets\Fucking Idiot.mp3</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\furion can you tp top.mp3">
       <PackagePath>Assets\furion can you tp top.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\game is a sht show.mp3">
-      <PackagePath>Assets\game is a sht show.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\gebak.mp3">
       <PackagePath>Assets\gebak.mp3</PackagePath>
@@ -436,20 +418,11 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\great game of dotes.mp3">
       <PackagePath>Assets\great game of dotes.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\he hasnt done sht.mp3">
-      <PackagePath>Assets\he hasnt done sht.mp3</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\hello.mp3">
       <PackagePath>Assets\hello.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\huge mistake.mp3">
       <PackagePath>Assets\huge mistake.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\i am going to report you.mp3">
-      <PackagePath>Assets\i am going to report you.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\i am gonna screw you.mp3">
-      <PackagePath>Assets\i am gonna screw you.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\i am not mad.mp3">
       <PackagePath>Assets\i am not mad.mp3</PackagePath>
@@ -520,12 +493,6 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\problem with 1k mmr players.mp3">
       <PackagePath>Assets\problem with 1k mmr players.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\right click.mp3">
-      <PackagePath>Assets\right click.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\RTZ Get me out.mp3">
-      <PackagePath>Assets\RTZ Get me out.mp3</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\RTZ Woo.mp3">
       <PackagePath>Assets\RTZ Woo.mp3</PackagePath>
     </AppxPackagedFile>
@@ -534,12 +501,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\shave your arm pits.mp3">
       <PackagePath>Assets\shave your arm pits.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\shit playstyle.mp3">
-      <PackagePath>Assets\shit playstyle.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\so stupid.mp3">
-      <PackagePath>Assets\so stupid.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\straight for the buildings.mp3">
       <PackagePath>Assets\straight for the buildings.mp3</PackagePath>
@@ -562,9 +523,6 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\time spent worthless.mp3">
       <PackagePath>Assets\time spent worthless.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\Unlimited Power.mp3">
-      <PackagePath>Assets\Unlimited Power.mp3</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\Use your Spells.mp3">
       <PackagePath>Assets\Use your Spells.mp3</PackagePath>
     </AppxPackagedFile>
@@ -574,17 +532,11 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\waow.mp3">
       <PackagePath>Assets\waow.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\we are back boys.mp3">
-      <PackagePath>Assets\we are back boys.mp3</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\we are in business boys.mp3">
       <PackagePath>Assets\we are in business boys.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\weak players.mp3">
       <PackagePath>Assets\weak players.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\wtf.mp3">
-      <PackagePath>Assets\wtf.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\yellow this is purge 1.mp3">
       <PackagePath>Assets\yellow this is purge 1.mp3</PackagePath>
@@ -594,9 +546,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\you dont understand.mp3">
       <PackagePath>Assets\you dont understand.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\You Underestimate my Power.mp3">
-      <PackagePath>Assets\You Underestimate my Power.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\bulldog.png">
       <PackagePath>Assets\bulldog.png</PackagePath>

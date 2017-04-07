@@ -16,25 +16,25 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>7A8B4EB43807C9CBFB0BECF9C1B96FDD9374C401A5E2AA950AD049AFFA461847</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>15291MichaelGeraghty.Dota2Soundboard_1.1.4.0_x86__3yp69f50x3xc2</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>81E58DB60EBE642A41D5A49E2C5BEB426436627A3C1184A6AACF61D0B9C62014</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>15291MichaelGeraghty.Dota2Soundboard_1.1.5.0_x86__3yp69f50x3xc2</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>15291MichaelGeraghty.Dota2Soundboard_3yp69f50x3xc2!App</RegisteredUserModeAppID>
     <RegisteredPackageID>15291MichaelGeraghty.Dota2Soundboard</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=E023754E-965E-498E-A54B-9833F94C4B49</RegisteredPackagePublisher>
-    <RegisteredVersion>1.1.4.0</RegisteredVersion>
+    <RegisteredVersion>1.1.5.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-02T18:34:38.587</Modified>
+      <Modified>2017-04-07T14:12:48.176</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Debug\Dota2SB.exe">
       <PackagePath>entrypoint\Dota2SB.exe</PackagePath>
-      <Modified>2017-04-02T18:34:37.897</Modified>
+      <Modified>2017-04-07T14:12:47.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gerag\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -504,10 +504,6 @@
       <PackagePath>Assets\RTZ.jpg</PackagePath>
       <Modified>2017-04-01T14:21:53.034</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\seemsgood.jpg">
-      <PackagePath>Assets\seemsgood.jpg</PackagePath>
-      <Modified>2017-04-02T16:11:51.775</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\tobi.jpg">
       <PackagePath>Assets\tobi.jpg</PackagePath>
       <Modified>2017-04-02T11:40:03.246</Modified>
@@ -519,10 +515,6 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\aegis and cheese.mp3">
       <PackagePath>Assets\aegis and cheese.mp3</PackagePath>
       <Modified>2017-04-02T11:46:58.585</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\all so bad.mp3">
-      <PackagePath>Assets\all so bad.mp3</PackagePath>
-      <Modified>2017-04-02T11:46:58.586</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\alright you messed up.mp3">
       <PackagePath>Assets\alright you messed up.mp3</PackagePath>
@@ -552,25 +544,9 @@
       <PackagePath>Assets\El Grande Dongerino.mp3</PackagePath>
       <Modified>2017-04-01T23:24:31.653</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\f this guy dude.mp3">
-      <PackagePath>Assets\f this guy dude.mp3</PackagePath>
-      <Modified>2017-04-02T11:46:58.606</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\fck you bro.mp3">
-      <PackagePath>Assets\fck you bro.mp3</PackagePath>
-      <Modified>2017-04-01T23:57:43.082</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\Fucking Idiot.mp3">
-      <PackagePath>Assets\Fucking Idiot.mp3</PackagePath>
-      <Modified>2017-04-01T23:24:31.654</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\furion can you tp top.mp3">
       <PackagePath>Assets\furion can you tp top.mp3</PackagePath>
       <Modified>2017-04-02T11:46:58.607</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\game is a sht show.mp3">
-      <PackagePath>Assets\game is a sht show.mp3</PackagePath>
-      <Modified>2017-04-01T23:57:43.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\gebak.mp3">
       <PackagePath>Assets\gebak.mp3</PackagePath>
@@ -592,10 +568,6 @@
       <PackagePath>Assets\great game of dotes.mp3</PackagePath>
       <Modified>2017-04-01T23:57:43.085</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\he hasnt done sht.mp3">
-      <PackagePath>Assets\he hasnt done sht.mp3</PackagePath>
-      <Modified>2017-04-02T11:01:38.685</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\hello.mp3">
       <PackagePath>Assets\hello.mp3</PackagePath>
       <Modified>2017-04-01T23:57:43.086</Modified>
@@ -603,14 +575,6 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\huge mistake.mp3">
       <PackagePath>Assets\huge mistake.mp3</PackagePath>
       <Modified>2017-04-02T11:01:38.686</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\i am going to report you.mp3">
-      <PackagePath>Assets\i am going to report you.mp3</PackagePath>
-      <Modified>2017-04-02T11:46:58.610</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\i am gonna screw you.mp3">
-      <PackagePath>Assets\i am gonna screw you.mp3</PackagePath>
-      <Modified>2017-04-02T11:01:38.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\i am not mad.mp3">
       <PackagePath>Assets\i am not mad.mp3</PackagePath>
@@ -704,14 +668,6 @@
       <PackagePath>Assets\problem with 1k mmr players.mp3</PackagePath>
       <Modified>2017-04-02T11:01:38.669</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\right click.mp3">
-      <PackagePath>Assets\right click.mp3</PackagePath>
-      <Modified>2017-04-02T11:01:38.670</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\RTZ Get me out.mp3">
-      <PackagePath>Assets\RTZ Get me out.mp3</PackagePath>
-      <Modified>2017-04-01T23:57:43.093</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\RTZ Woo.mp3">
       <PackagePath>Assets\RTZ Woo.mp3</PackagePath>
       <Modified>2017-04-01T23:57:43.094</Modified>
@@ -723,14 +679,6 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\shave your arm pits.mp3">
       <PackagePath>Assets\shave your arm pits.mp3</PackagePath>
       <Modified>2017-04-01T23:57:43.095</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\shit playstyle.mp3">
-      <PackagePath>Assets\shit playstyle.mp3</PackagePath>
-      <Modified>2017-04-02T11:01:38.671</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\so stupid.mp3">
-      <PackagePath>Assets\so stupid.mp3</PackagePath>
-      <Modified>2017-04-01T23:57:43.096</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\straight for the buildings.mp3">
       <PackagePath>Assets\straight for the buildings.mp3</PackagePath>
@@ -760,10 +708,6 @@
       <PackagePath>Assets\time spent worthless.mp3</PackagePath>
       <Modified>2017-04-02T11:01:38.674</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\Unlimited Power.mp3">
-      <PackagePath>Assets\Unlimited Power.mp3</PackagePath>
-      <Modified>2017-04-01T23:24:31.672</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\Use your Spells.mp3">
       <PackagePath>Assets\Use your Spells.mp3</PackagePath>
       <Modified>2017-04-01T23:24:31.674</Modified>
@@ -776,10 +720,6 @@
       <PackagePath>Assets\waow.mp3</PackagePath>
       <Modified>2017-04-02T11:28:37.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\we are back boys.mp3">
-      <PackagePath>Assets\we are back boys.mp3</PackagePath>
-      <Modified>2017-04-01T23:57:43.097</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\we are in business boys.mp3">
       <PackagePath>Assets\we are in business boys.mp3</PackagePath>
       <Modified>2017-04-01T23:57:43.098</Modified>
@@ -787,10 +727,6 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\weak players.mp3">
       <PackagePath>Assets\weak players.mp3</PackagePath>
       <Modified>2017-04-02T11:01:38.680</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\wtf.mp3">
-      <PackagePath>Assets\wtf.mp3</PackagePath>
-      <Modified>2017-04-01T23:57:43.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\yellow this is purge 1.mp3">
       <PackagePath>Assets\yellow this is purge 1.mp3</PackagePath>
@@ -803,10 +739,6 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\you dont understand.mp3">
       <PackagePath>Assets\you dont understand.mp3</PackagePath>
       <Modified>2017-04-02T11:01:38.682</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\You Underestimate my Power.mp3">
-      <PackagePath>Assets\You Underestimate my Power.mp3</PackagePath>
-      <Modified>2017-04-01T23:24:31.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\Assets\bulldog.png">
       <PackagePath>Assets\bulldog.png</PackagePath>
@@ -869,11 +801,11 @@
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-02T18:34:38.351</Modified>
+      <Modified>2017-04-07T14:12:47.956</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\VSprograms\Dota2SB\Dota2SB\bin\x86\Debug\Core\Dota2SB.exe">
       <PackagePath>Dota2SB.exe</PackagePath>
-      <Modified>2017-04-02T18:34:38.577</Modified>
+      <Modified>2017-04-07T14:12:48.168</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

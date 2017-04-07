@@ -1,2 +1,2 @@
-MainPackage=E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\Upload\Dota2SB_1.1.3.0_ARM.appx
-SymbolPackage=E:\VSprograms\Dota2SB\Dota2SB\AppPackages\Dota2SB_1.1.3.0\Dota2SB_1.1.3.0_ARM.appxsym
+MainPackage=E:\VSprograms\Dota2SB\Dota2SB\bin\ARM\Release\Upload\Dota2SB_1.1.5.0_ARM.appx
+SymbolPackage=E:\VSprograms\Dota2SB\Dota2SB\AppPackages\Dota2SB_1.1.5.0\Dota2SB_1.1.5.0_ARM.appxsym

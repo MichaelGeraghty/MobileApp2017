@@ -20,27 +20,21 @@
             <RowDefinition Height="50*" />
             <RowDefinition Height="50*" />
             <RowDefinition Height="50*" />
-            <RowDefinition Height="50*" />
-            <RowDefinition Height="50*" />
         </Grid.RowDefinitions>
 
-        <Button x:Name="btn1" Grid.Row="0" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn1_Tapped_1">F*** You Bro</Button>
-        <Button x:Name="btn2" Grid.Row="1" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn2_Tapped_2">Game is a S*** show</Button>
-        <Button x:Name="btn3" Grid.Row="2" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn3_Tapped_3">Good Job Guys</Button>
-        <Button x:Name="btn4" Grid.Row="3" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn4_Tapped_4">Great Game of Dotes</Button>
-        <Button x:Name="btn5" Grid.Row="4" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn5_Tapped_5">Hello</Button>
+     
+        
+        <Button x:Name="btn3" Grid.Row="0" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn3_Tapped_3">Good Job Guys</Button>
+        <Button x:Name="btn4" Grid.Row="1" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn4_Tapped_4">Great Game of Dotes</Button>
+        <Button x:Name="btn5" Grid.Row="2" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn5_Tapped_5">Hello</Button>
 
         <Button x:Name="btn6" Grid.Row="0" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn6_Tapped_6">I Am Not Mad</Button>
         <Button x:Name="btn7" Grid.Row="1" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn7_Tapped_7">I Do Not Want To Play</Button>
         <Button x:Name="btn8" Grid.Row="2" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn8_Tapped_8">I Hate You Guys</Button>
-        <Button x:Name="btn9" Grid.Row="3" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn9_Tapped_9">Get Me Out</Button>
-        <Button x:Name="btn11" Grid.Row="4" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn10_Tapped_10">Wooo</Button>
 
-        <Button x:Name="btn12" Grid.Row="0" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn11_Tapped_11">Shave Your Arm Pits</Button>
-        <Button x:Name="btn13" Grid.Row="1" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn12_Tapped_12">So Stupid</Button>
-        <Button x:Name="btn14" Grid.Row="2" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn13_Tapped_13">We Are Back Boys</Button>
-        <Button x:Name="btn15" Grid.Row="3" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn14_Tapped_14">We Are In Business</Button>
-        <Button x:Name="btn16" Grid.Row="4" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn15_Tapped_15">WTF</Button>
+        <Button x:Name="btn11" Grid.Row="0" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn10_Tapped_10">Wooo</Button>
+        <Button x:Name="btn12" Grid.Row="1" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn11_Tapped_11">Shave Your Arm Pits</Button>
+        <Button x:Name="btn15" Grid.Row="2" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground = "White" Tapped="btn14_Tapped_14">We Are In Business</Button>
 
     </Grid>
 </Page>
