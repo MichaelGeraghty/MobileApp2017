@@ -9,3 +9,5 @@ Under the last category at the bottom of the menu "Thanks for trying this app" t
 *Edit First certification for windows store failed Store mild language terms even though i had a cert of 16 to 18+ age in different regions for that reason. Edited now with no language. Aswell suggested more screenshots so 8 screenshots provided.
 
 *Edit Second certification for windows store failed for unclear , unreadable screenshots for store. Updated with far clearer screenshots for both Mobile and Desktop
+
+*Edit Third certification for windows store failed for Icon. Clear Icon added.
