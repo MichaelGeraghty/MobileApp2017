@@ -1,4 +1,5 @@
-# MobileApp2017
+# MobileApp2017 Dota 2 Soundboard
+Dota 2 soundboard Mobile App
 Universal windows 10 project for Mobile apps module. Soundboard for Dota 2 an online competitive game Using popular casters
 and personalities for the soundboard.
 
